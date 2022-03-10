@@ -1,0 +1,10 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": ["airbnb"],
+  "rules": {
+    "react/prefer-stateless-function": "off",
+    "jsx-a11y/anchor-is-valid": "off"
+  }
+}

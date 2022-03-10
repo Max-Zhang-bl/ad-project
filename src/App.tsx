@@ -6,6 +6,7 @@ class App extends Component{
             <div className="box">
                 Hello,React,10k
             </div>
+
         );
     }
 }

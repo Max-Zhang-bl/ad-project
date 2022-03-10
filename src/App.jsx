@@ -4,7 +4,7 @@ class App extends Component{
     render() {
         return (
             <div className="box">
-                Hello,React
+                Hello,React,10k
             </div>
         );
     }
